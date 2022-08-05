@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknote_docusaurus=self.webpackChunknote_docusaurus||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"blog","permalink":"/blog/blog"}]}')}}]);
