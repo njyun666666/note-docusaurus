@@ -5,8 +5,6 @@ tags:
   - emoji
 ---
 
-# 截取字串時遇到 emoji
-
 ## 一般字串使用 Substring
 
 ```csharp
