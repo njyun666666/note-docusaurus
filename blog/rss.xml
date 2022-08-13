@@ -4,7 +4,7 @@
         <title>Jyun's 筆記 Blog</title>
         <link>https://njyunn.com/blog</link>
         <description>Jyun's 筆記 Blog</description>
-        <lastBuildDate>Fri, 05 Aug 2022 09:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 05:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[blog]]></title>
             <link>https://njyunn.com/blog/blog</link>
             <guid>/blog</guid>
-            <pubDate>Fri, 05 Aug 2022 09:37:27 GMT</pubDate>
+            <pubDate>Sat, 13 Aug 2022 05:13:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
