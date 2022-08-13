@@ -1,5 +1,8 @@
 ---
 title: 截取字串時遇到emoji
+tags:
+  - .NET
+  - emoji
 ---
 
 # 截取字串時遇到 emoji
