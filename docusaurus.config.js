@@ -68,6 +68,12 @@ const config = {
             label: '筆記',
           },
           {
+            type: 'doc',
+            docId: 'siteProject/index',
+            position: 'left',
+            label: 'Side Project',
+          },
+          {
             href: 'https://github.com/njyun666666',
             label: 'GitHub',
             position: 'right',
