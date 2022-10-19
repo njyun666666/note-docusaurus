@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknote_docusaurus=self.webpackChunknote_docusaurus||[]).push([[121],{8070:e=>{e.exports=JSON.parse('[{"label":".NET","permalink":"/docs/tags/net","count":1},{"label":"emoji","permalink":"/docs/tags/emoji","count":1}]')}}]);
