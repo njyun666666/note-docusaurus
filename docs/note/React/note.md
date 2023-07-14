@@ -13,3 +13,4 @@ tags:
 - [redux-toolkit](https://redux-toolkit.js.org)
 - [react-hook-form](https://react-hook-form.com)
 - [react-i18next](https://react.i18next.com/)
+- [craco](https://craco.js.org/)
