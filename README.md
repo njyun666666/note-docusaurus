@@ -4,4 +4,4 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 
 ## 連結
 
-[https://njyunn.com](https://njyunn.com/)
+[https://jyun-note.vercel.app](https://jyun-note.vercel.app)
