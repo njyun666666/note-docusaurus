@@ -16,3 +16,6 @@ tags:
 - [craco](https://craco.js.org)
 - [eslint](https://eslint.org)
 - [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react/tree/master/docs/rules)
+- [Zod](https://zod.dev/)
+- [TanStack Query](https://tanstack.com/query/latest)
+- [TanStack Table](https://tanstack.com/table/latest)
