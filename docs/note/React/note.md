@@ -21,3 +21,5 @@ tags:
 - [Zod](https://zod.dev/)
 - [TanStack Query](https://tanstack.com/query/latest)
 - [TanStack Table](https://tanstack.com/table/latest)
+- [react-use](https://github.com/streamich/react-use)
+- [React Tooltip](https://react-tooltip.com/)
