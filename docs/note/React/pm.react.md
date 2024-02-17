@@ -20,7 +20,11 @@ tags:
 - 串接 API
 - 資料新增修改
 - JWT 登入
--
+- 製作共用元件
+  - DataTable
+  - Form Detail
+  - Select
+  - Alert Dialog
 
 ## 前端
 
@@ -43,6 +47,6 @@ tags:
 
 ### 使用技術/套件
 
-- .Net 7
+- .NET 7
 - EF Core
 - MySQL
