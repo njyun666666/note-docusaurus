@@ -1,12 +1,12 @@
 ---
 sidebar_position: 1
-title: React+.Net 練習
+title: React+.NET 練習
 tags:
   - React
   - Typescript
   - shadcn/ui
   - Tailwind CSS
-  - .Net
+  - .NET
   - MySQL
 ---
 
