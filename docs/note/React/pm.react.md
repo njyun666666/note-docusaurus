@@ -31,6 +31,10 @@ tags:
 
 [GitHub](https://github.com/njyun666666/PM.React)
 
+### 部署
+
+使用[Vercel](https://vercel.com)連接 GitHub 自動部署
+
 ### 使用技術/套件
 
 - React 18
@@ -45,6 +49,10 @@ tags:
 ## 後端 API
 
 [GitHub](https://github.com/njyun666666/PM.Net)
+
+### 部署
+
+使用 GCP Cloud Run 連接 GitHub + Dockerfile 自動部署
 
 ### 使用技術/套件
 
