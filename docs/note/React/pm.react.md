@@ -56,6 +56,6 @@ tags:
 
 ### 使用技術/套件
 
-- .NET 7
+- .NET 7 WebAPI
 - EF Core
 - MySQL
