@@ -13,7 +13,7 @@ tags:
 
 ## 新增 cn
 
-使用 cn 助手來更輕鬆地有條件地添加 Tailwind CSS 類別
+使用 cn 來更輕鬆地有條件地添加 Tailwind CSS 類別
 
 ```ts title="utils.ts"
 import {type ClassValue, clsx} from 'clsx';
